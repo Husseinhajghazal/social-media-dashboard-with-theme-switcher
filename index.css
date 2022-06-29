@@ -49,6 +49,7 @@ header .left h1 {
   font-weight: 700;
   font-size: 1.5625rem;
   margin: 0;
+  color: var(--Very-Dark-Blue);
 }
 
 header .left p {
